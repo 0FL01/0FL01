@@ -62,6 +62,8 @@
 ### 🖥️ **Инфраструктура**
 <p align="left">
 <img src="https://img.shields.io/badge/Baremetal-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Baremetal"/>
+<img src="https://img.shields.io/badge/Selectel-00B2A9?style=for-the-badge&logo=selectel&logoColor=white" alt="Selectel"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
 </p>
 
 ---
@@ -69,12 +71,12 @@
 ## 📊 **GitHub статистика**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0FL01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0FL01&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0FL01&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -136,5 +138,5 @@ DevOps:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0FL01&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div> 
