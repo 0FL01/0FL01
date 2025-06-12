@@ -35,6 +35,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/-Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy"/>
 </p>
 
 ### 💻 **Языки программирования и скриптинг**
