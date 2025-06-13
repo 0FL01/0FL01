@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=0FL01)](https://git.io/streak-stats)" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=0FL01&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
