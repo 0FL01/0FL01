@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋%2C+I'm+DevOps+Middle;Automating+Infrastructure;Building+Scalable+Systems;CI%2FCD+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋%2C+I'm+DevOps+Middle;Automating+Infrastructure;Building+Scalable+Systems;CI%2FCD+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center">🚀 Автоматизация инфраструктуры и построение масштабируемых систем</h3>
