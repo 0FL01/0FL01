@@ -67,7 +67,6 @@
 <img src="https://img.shields.io/badge/Baremetal-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Baremetal"/>
 <img src="https://img.shields.io/badge/Selectel-00B2A9?style=for-the-badge&logo=selectel&logoColor=white" alt="Selectel"/>
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
-<img src="https://img.shields.io/badge/Keepalived-orange?style=for-the-badge&logo=server&logoColor=white" alt="Keepalived"/>
 </p>
 
 ---
