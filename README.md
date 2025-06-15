@@ -28,9 +28,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/etcd-326CE5?style=for-the-badge&logo=etcd&logoColor=white" alt="etcd"/>
-<img src="https://img.shields.io/badge/Patroni-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Patroni"/>
-<img src="https://img.shields.io/badge/PgBouncer-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PgBouncer"/>
 </p>
 
 ### 🌐 **Веб-серверы и балансировщики**
@@ -55,7 +52,6 @@
 
 ### 🔄 **CI/CD и мониторинг**
 <p align="left">
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=azure-devops&logoColor=white" alt="CI/CD"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
