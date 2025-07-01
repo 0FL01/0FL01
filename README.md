@@ -2,7 +2,6 @@
     │  Infrastructure Engineering         │
     │  Systems • Automation • Patterns    │
     ╰─────────────────────────────────────╯
-```
 
 ### 0FL01
 
@@ -131,8 +130,3 @@ $ find . -name "rollback*" | wc -l  # Always have an exit strategy
 </div>
 
 ---
-
-```
-Last updated: $(date +"%Y-%m-%d")
-Infrastructure complexity: O(log n) where n = problems solved
-```
