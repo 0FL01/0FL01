@@ -9,7 +9,7 @@ Infrastructure engineer focused on system reliability and automation patterns.
 
 > *"The most elegant solutions are often invisible to those who use them"*
 
-**Core competencies:** Linux system administration, containerization, CI/CD pipeline design, monitoring infrastructure.
+**Core competencies:** Linux system administration, optimization everything, containerization, CI/CD pipeline design, monitoring infrastructure.
 
 **Technology preferences:** Ansible for configuration management, Docker for containerization, K3s for orchestration, PostgreSQL for data persistence.
 
