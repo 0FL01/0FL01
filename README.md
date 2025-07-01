@@ -23,7 +23,7 @@ Infrastructure engineer focused on system reliability and automation patterns.
 <summary><strong>Infrastructure & Orchestration</strong></summary>
 
 ```
-Container Orchestration    │  K3s, Docker
+Container    │  Docker
 Configuration Management   │  Ansible
 Load Balancing            │  HAProxy, Nginx, Caddy
 Service Mesh              │  Exploring implementation patterns
@@ -72,64 +72,6 @@ Infrastructure Platforms  │  Bare metal, Selectel, DigitalOcean
 Development Philosophy    │  Infrastructure as Code
 ```
 </details>
-
----
-
-## Current Research & Philosophy
-
-```yaml
-Infrastructure_Patterns:
-  declarative_systems: 
-    focus: "idempotent configuration management"
-    methodology: "immutable infrastructure principles"
-    goal: "zero-drift deployments"
-    
-  fault_tolerance: 
-    approach: "self-healing infrastructure topologies"
-    research: "automated remediation patterns"
-    implementation: "circuit breaker patterns for services"
-    
-      observability: 
-    philosophy: "metrics-driven architecture decisions"
-    practice: "proactive monitoring over reactive fixes"
-    evolution: "observability as code"
-    
-  network_security:
-    transition: "iptables to nftables migration strategies"
-    approach: "atomic rule updates, zero-downtime reloads"
-    philosophy: "security policies as immutable artifacts"
-
-Automation_Philosophy:
-  approach: "infrastructure as immutable artifacts"
-  methodology: "test-driven infrastructure development"
-  evolution: "continuous architecture refinement"
-  principle: "automate the automation"
-```
-
-### Recent Focus Areas
-
-- **Declarative Infrastructure**: Moving beyond imperative scripts to truly declarative systems
-- **Network Security Evolution**: nftables architecture, atomic rule updates, advanced filtering
-- **Chaos Engineering**: Controlled failure injection for resilience testing  
-- **GitOps Workflows**: Git as single source of truth for infrastructure state
-- **Observability Patterns**: Building systems that explain themselves
-
----
-
-```bash
-# Current exploration
-$ find /infrastructure -name "*.yml" | xargs grep -l "idempotent"
-$ git log --oneline --grep="automation" --since="1.month.ago"
-$ nft list ruleset | grep -E "(table|chain)" | wc -l
-
-# Network security patterns
-$ nft -j list ruleset | jq '.nftables[] | select(.table)'
-$ iptables-save | iptables-restore-translate -f /dev/stdin
-
-# Philosophy in practice
-$ grep -r "fail_fast" . | wc -l  # Prefer early detection
-$ find . -name "rollback*" | wc -l  # Always have an exit strategy
-```
 
 ---
 
