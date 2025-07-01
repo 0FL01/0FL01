@@ -137,7 +137,6 @@ $ find . -name "rollback*" | wc -l  # Always have an exit strategy
 
 **Primary Contact:** [t.me/OFL01](https://t.me/OFL01)  
 **Collaboration:** Open to discussing infrastructure architecture challenges  
-**Knowledge Sharing:** Available for technical consultations on complex system design
 
 ---
 
